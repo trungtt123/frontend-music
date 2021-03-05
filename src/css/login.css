@@ -1,0 +1,45 @@
+.btnFacebook { 
+    width: 100%;
+    height:35px;  
+    border-radius: 4px;
+    background: #2050b8;
+    color:white;
+    border:0px transparent;  
+    text-align: center;
+    display: block;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.btnFacebook:hover {
+    background: #295dcf;
+    opacity: 0.9;
+}
+.btnGoogle { 
+    width: 100%;
+    height:35px;
+    border-radius: 4px;
+    background: #df3336;
+    color:white;
+    border:0px transparent;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+.btnGoogle:hover {
+    background: #db3236;
+    opacity: 0.9;
+  }
+  .btnTwitter { 
+    width: 100%;
+    height:35px;
+    border-radius: 4px;
+    background: #19b3ce;
+    color:white;
+    border:0px transparent;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .btnTwitter:hover {
+    background:#32bed6;
+    opacity: 0.9;
+  }

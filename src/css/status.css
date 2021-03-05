@@ -1,0 +1,22 @@
+.container {
+  position: absolute;
+  top: 14%; 
+  width: 84.8%;
+  height: 3%;
+  left: 7%;
+  border: solid white 2px;
+  overflow: hidden;
+  border-radius: 100px 100px 100px 100px;
+  background-color: white;
+}
+.status {
+  color: black;
+  position: absolute;
+  left: 0px;
+  animation: mymove 30s infinite;
+}
+
+@keyframes mymove {
+  0%   {left: 100%;}
+  100% {left: -100%;}
+}
